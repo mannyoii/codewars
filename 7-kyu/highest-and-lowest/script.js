@@ -1,5 +1,4 @@
 function highAndLow(numbers) {
-  // ...
   const arr = numbers.split(" ");
   const arrNum = arr.map((x) => parseInt(x));
   function compareNumbers(a, b) {
