@@ -1,4 +1,3 @@
 function stringToArray(string) {
-  const arrSplit = string.split(" ");
-  return arrSplit;
+  return string.split(" ");
 }
