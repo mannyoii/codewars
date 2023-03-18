@@ -1,6 +1,6 @@
 **Description:**
 
-# H1 Kata Task
+# Kata Task
 
 I have a cat and a dog.
 
